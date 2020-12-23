@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heng Yu / R&D for Fun and Profit"
+title                    : "Heng Yu / R&D for Fun&Profit"
 title_separator          : "-"
 name                     : &name "Heng Yu"
-description              : &description "Staff algorithm engineer @Alibaba Group, developing on cutting-edge NLP technology for global e-commerce."
+description              : &description "Staff algorithm engineer @Alibaba Group, developing cutting-edge NLP technology for global e-commerce."
 url                      : https://valeera-in-sprint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Valeera-In-Sprint/valeera-in-sprint.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Heng Yu"
   avatar           : "profile.png"
-  bio              : "Staff algorithm engineer @Alibaba Group, developing on cutting-edge NLP technology for global e-commerce."
+  bio              : "Staff algorithm engineer @Alibaba Group, developing cutting-edge NLP technology for global e-commerce."
   location         : "Beijing China"
   employer         : "Alibaba DAMO Academy"
   googlescholar    : "https://scholar.google.com/citations?user=aYAMnucAAAAJ&hl=zh-CN"
