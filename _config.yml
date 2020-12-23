@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Heng Yu / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Heng Yu"
+description              : &description "Heng Yu is currently a staff algorithm engineer at Alibaba Group. He is the team leader of Machine Translation model group, focusing on improving Alibaba machine translation engine for global e-commerce. Before that, he was the team leader of MT group in Samsung research center Beijing and key member for sogou translation. He graduated from Chinese Acadamy of Science in 2014 with a doctorate degree of nature language processing. He has published over 20 papers in top AI and NLP conferences like AAAI, ACL and EMNLP. He is also a committee member of CCF-Technical Committee on Chinese Information Technology."
+url                      : https://valeera-in-sprint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Valeera-In-Sprint/valeera-in-sprint.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Heng YU"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Heng Yu is currently a staff algorithm engineer at Alibaba Group. He is the team leader of Machine Translation model group, focusing on improving Alibaba machine translation engine for global e-commerce. Before that, he was the team leader of MT group in Samsung research center Beijing and key member for sogou translation. He graduated from Chinese Acadamy of Science in 2014 with a doctorate degree of nature language processing. He has published over 20 papers in top AI and NLP conferences like AAAI, ACL and EMNLP. He is also a committee member of CCF-Technical Committee on Chinese Information Technology."
+  location         : "Beijing China"
+  employer         : "Alibaba DAMO Academy"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=aYAMnucAAAAJ&hl=zh-CN"
+  email            : "sameyh0305@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
