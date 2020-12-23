@@ -80,20 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Heng YU"
+  name             : "Heng Yu"
   avatar           : "profile.png"
-  bio              : "Heng Yu is currently a staff algorithm engineer at Alibaba Group. He is the team leader of Machine Translation model group, focusing on improving Alibaba machine translation engine for global e-commerce. Before that, he was the team leader of MT group in Samsung research center Beijing and key member for sogou translation. He graduated from Chinese Acadamy of Science in 2014 with a doctorate degree of nature language processing. He has published over 20 papers in top AI and NLP conferences like AAAI, ACL and EMNLP. He is also a committee member of CCF-Technical Committee on Chinese Information Technology."
+  bio              : "Staff algorithm engineer @Alibaba Group, developing on cutting-edge NLP technology for global e-commerce."
   location         : "Beijing China"
   employer         : "Alibaba DAMO Academy"
-  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=aYAMnucAAAAJ&hl=zh-CN"
   email            : "sameyh0305@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Heng_Yu20"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  foursquare       :
   github           : "academicpages"
   google_plus      :
   keybase          :
